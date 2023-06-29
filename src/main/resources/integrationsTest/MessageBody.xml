@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+	<Produces>
+		<Product_ProductID>000000000000380110</Product_ProductID>
+		<DistributionCenter_RegionID>GD02</DistributionCenter_RegionID>
+		<Country>AU</Country>
+		<Description>Kale&amp;BabySpinSldLeafMx120g</Description>
+		<Category>Conventional</Category>
+		<Trait>Various</Trait>
+		<Grade>Class 1</Grade>
+		<CountriesOfOrigin>Australia</CountriesOfOrigin>
+	</Produces>
+	<Produces>
+		<Product_ProductID>000000000000380110</Product_ProductID>
+		<DistributionCenter_RegionID>GD01</DistributionCenter_RegionID>
+		<Country>AU</Country>
+		<Description>Kale&amp;BabySpinSldLeafMx120g</Description>
+		<Category>Conventional</Category>
+		<Trait>Various</Trait>
+		<Grade>Class 1</Grade>
+		<CountriesOfOrigin>Australia</CountriesOfOrigin>
+	</Produces>
+</data>
